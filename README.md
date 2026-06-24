@@ -35,17 +35,6 @@ Understanding delayed macroeconomic effects on the US Dollar Index can support:
 - Economic policy analysis
 - Quantitative research
 
----
-
-## Key Results
-
-| Model | Exchange Rates R² | Labor Market R² | Housing R² | Inflation R² |
-|---|---|---|---|---|
-| Linear Regression | < 0 (fails) | < 0 (fails) | < 0 (fails) | < 0 (fails) |
-| Ridge | < 0 (fails) | < 0 (fails) | < 0 (fails) | < 0 (fails) |
-| ElasticNet | < 0 (fails) | < 0 (fails) | < 0 (fails) | < 0 (fails) |
-| **Random Forest** | **High (+)** | **High (+)** | **High (+)** | **High (+)** |
-
 ### Main Findings
 
 - Linear models consistently failed to explain DXY variance.
@@ -115,7 +104,7 @@ Federal Reserve Economic Data (FRED)
 
 ### Frequency
 
-Daily observations aggregated to monthly frequency.
+Daily observations aggregated to a monthly frequency.
 
 ### Target Variable
 
