@@ -64,7 +64,7 @@ Understanding delayed macroeconomic effects on the US Dollar Index can support:
 
 | Correlation Matrix | Lag Analysis |
 |---|---|
-| ![Correlation Matrix](images/correlation_between_key_economic_indicators.png) | ![Lag Analysis](images/images/time_lag_and_direction_of_macroeconomic_impact_on_DXY.png) |
+| ![Correlation Matrix](images/correlation_between_key_economic_indicators.png) | ![Lag Analysis](images/time_lag_and_direction_of_macroeconomic_impact_on_DXY.png) |
 
 ---
 
