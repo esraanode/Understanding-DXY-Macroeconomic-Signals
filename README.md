@@ -60,11 +60,11 @@ Understanding delayed macroeconomic effects on the US Dollar Index can support:
 
 | Model Performance | Feature Importance |
 |---|---|
-| ![Model Performance](images/model_performance.png) | ![Feature Importance](images/feature_importance.png) |
+| ![Model Performance](images/model_performance_evaluation.png) | ![Feature Importance](images/macroeconomic_feature_importance.png) |
 
 | Correlation Matrix | Lag Analysis |
 |---|---|
-| ![Correlation Matrix](images/correlation_matrix.png) | ![Lag Analysis](images/lag_analysis.png) |
+| ![Correlation Matrix](images/correlation_between_key_economic_indicators.png) | ![Lag Analysis](images/images/time_lag_and_direction_of_macroeconomic_impact_on_DXY.png) |
 
 ---
 
@@ -242,4 +242,4 @@ This project was completed during the M.Sc. in Artificial Intelligence and Big D
 
 For the complete bibliography, see:
 
-`reports/Report.pdf`
+`reports/Final_Report.pdf`
