@@ -55,8 +55,6 @@ Understanding delayed macroeconomic effects on the US Dollar Index can support:
 |---|---|
 | ![Correlation Matrix](images/correlation_between_key_economic_indicators.png) | ![Lag Analysis](images/time_lag_and_direction_of_macroeconomic_impact_on_DXY.png) |
 
----
-
 ## Repository Structure
 
 ```text
@@ -91,8 +89,6 @@ Understanding-DXY-Macroeconomic-Signals/
 │
 └── README.md
 ```
-
----
 
 ## Dataset
 
@@ -131,8 +127,6 @@ All macroeconomic indicators were transformed into:
 - Lag-3
 
 features to capture delayed macroeconomic effects.
-
----
 
 ## Methodology
 
@@ -220,8 +214,6 @@ This project was completed during the M.Sc. in Artificial Intelligence and Big D
 - Incorporate news and sentiment indicators
 - Extend evaluation to post-2021 economic conditions
 - Compare additional ensemble and deep learning models
-
----
 
 ## References
 
