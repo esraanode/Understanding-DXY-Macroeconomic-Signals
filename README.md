@@ -87,6 +87,8 @@ Understanding-DXY-Macroeconomic-Signals/
 │
 ├── requirements.txt
 │
+├── .gitignore
+│
 └── README.md
 ```
 
